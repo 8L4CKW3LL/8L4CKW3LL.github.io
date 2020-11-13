@@ -3,22 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://8L4CKW3LL.github.io/</loc>
+    <lastmod>2020-11-14T02:38:04+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://8L4CKW3LL.github.io/posts/</loc>
+    <lastmod>2020-11-14T02:38:04+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://8L4CKW3LL.github.io/tags/</loc>
+    <lastmod>2020-11-14T02:38:04+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://8L4CKW3LL.github.io/tags/untagged/</loc>
+    <lastmod>2020-11-14T02:38:04+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://8L4CKW3LL.github.io/posts/1/</loc>
+    <lastmod>2020-11-14T02:38:04+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://8L4CKW3LL.github.io/about/</loc>
     <lastmod>2020-11-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://8L4CKW3LL.github.io/</loc>
-    <lastmod>2020-11-09T01:58:57+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://8L4CKW3LL.github.io/posts/hello/</loc>
-    <lastmod>2020-11-09T01:58:57+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://8L4CKW3LL.github.io/posts/</loc>
     <lastmod>2020-11-09T01:58:57+09:00</lastmod>
   </url>
   
@@ -28,10 +43,6 @@
   
   <url>
     <loc>https://8L4CKW3LL.github.io/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://8L4CKW3LL.github.io/tags/</loc>
   </url>
   
 </urlset>

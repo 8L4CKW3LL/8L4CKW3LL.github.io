@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untagged on 8L4CKW3LL</title>
+    <link>https://8L4CKW3LL.github.io/tags/untagged/</link>
+    <description>Recent content in untagged on 8L4CKW3LL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 14 Nov 2020 02:38:04 +0900</lastBuildDate><atom:link href="https://8L4CKW3LL.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>色々な言語でHello, world!を書こう</title>
+      <link>https://8L4CKW3LL.github.io/posts/1/</link>
+      <pubDate>Sat, 14 Nov 2020 02:38:04 +0900</pubDate>
+      
+      <guid>https://8L4CKW3LL.github.io/posts/1/</guid>
+      <description>暇な時間が増えてきたので、色々な言語でHello, world!を書いてGithubにpushしようと思う。 理由はないけれど面白そうなのでやる。</description>
+    </item>
+    
+  </channel>
+</rss>
